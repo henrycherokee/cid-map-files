@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "3417 Texas"
+        "name": "Free Parking at 3417 Texas"
       },
       "geometry": {
         "type": "Polygon",
@@ -37,7 +37,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "3333 Ohio"
+        "name": "Free Parking at 3333 Ohio"
       },
       "geometry": {
         "type": "Polygon",
@@ -70,7 +70,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "3340 California"
+        "name": "Free Parking at 3340 California"
       },
       "geometry": {
         "type": "Polygon",
