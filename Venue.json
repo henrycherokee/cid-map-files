@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22883,
+          38.5946
+        ]
+      },
+      "properties": {
+        "name": "Casa Loma Ballroom",
+        "address": "3354 Iowa Ave St Louis MO 63118",
+        "website": "",
+        "category": "venue",
+        "subcategory": "Venue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.228483,
+          38.593796
+        ]
+      },
+      "properties": {
+        "name": "Golden Record The",
+        "address": "2720 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "venue",
+        "subcategory": "Venue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.230298,
+          38.593597
+        ]
+      },
+      "properties": {
+        "name": "Chakq Nation Event Venue",
+        "address": "3407 California Ave St Louis MO 63118",
+        "website": "",
+        "category": "venue",
+        "subcategory": "Venue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.235518,
+          38.59468
+        ]
+      },
+      "properties": {
+        "name": "El Lenador",
+        "address": "3126 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "venue",
+        "subcategory": "Venue"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.222216,
+          38.593012
+        ]
+      },
+      "properties": {
+        "name": "Verde on Cherokee",
+        "address": "2118 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "venue",
+        "subcategory": "Venue"
+      }
+    }
+  ]
+}

@@ -1,0 +1,719 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.218695,
+          38.59942
+        ]
+      },
+      "properties": {
+        "name": "Benton Park Caf\u00e9",
+        "address": "2901 Salena St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.217729,
+          38.592155
+        ]
+      },
+      "properties": {
+        "name": "Bluewood Brewing",
+        "address": "1821 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.228158,
+          38.593753
+        ]
+      },
+      "properties": {
+        "name": "Days Bar & Restaurant",
+        "address": "2712 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.230712,
+          38.593717
+        ]
+      },
+      "properties": {
+        "name": "Don Carlos Restaurant",
+        "address": "2800 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.224302,
+          38.592963
+        ]
+      },
+      "properties": {
+        "name": "Elaine's Classic American Sandwiches",
+        "address": "2311 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22597,
+          38.592991
+        ]
+      },
+      "properties": {
+        "name": "Fattened Caf",
+        "address": "3405 S Jefferson Ave St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.233701,
+          38.59447
+        ]
+      },
+      "properties": {
+        "name": "Fortitude Cold Brew",
+        "address": "3024 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.226224,
+          38.593509
+        ]
+      },
+      "properties": {
+        "name": "Good Strangers",
+        "address": "2614 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.225191,
+          38.592989
+        ]
+      },
+      "properties": {
+        "name": "Hong Kong Express",
+        "address": "3406 S Jefferson Ave St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.225681,
+          38.592905
+        ]
+      },
+      "properties": {
+        "name": "Imo's Pizza",
+        "address": "3422 S Jefferson Ave St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.234833,
+          38.594602
+        ]
+      },
+      "properties": {
+        "name": "Jerk Unlimited",
+        "address": "3108 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22633,
+          38.593221
+        ]
+      },
+      "properties": {
+        "name": "K-Bop",
+        "address": "2609 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.225843,
+          38.593458
+        ]
+      },
+      "properties": {
+        "name": "La Casa de los Jugos",
+        "address": "2606 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.230712,
+          38.593717
+        ]
+      },
+      "properties": {
+        "name": "La Manganita",
+        "address": "2812 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.230058,
+          38.593711
+        ]
+      },
+      "properties": {
+        "name": "La Vallesana",
+        "address": "2801 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.229066,
+          38.593876
+        ]
+      },
+      "properties": {
+        "name": "Las Morras & El Compadre",
+        "address": "2744 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.229036,
+          38.593569
+        ]
+      },
+      "properties": {
+        "name": "LaTerraza Mexican Restaurant",
+        "address": "2737 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.215868,
+          38.593042
+        ]
+      },
+      "properties": {
+        "name": "Lemp Mansion The",
+        "address": "3322 DeMenil Pl St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23071,
+          38.594162
+        ]
+      },
+      "properties": {
+        "name": "Lilly's Panaderia",
+        "address": "2819 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.225423,
+          38.594111
+        ]
+      },
+      "properties": {
+        "name": "Louisiana Chicken & Fish",
+        "address": "3354 S Jefferson Ave St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22586,
+          38.593447
+        ]
+      },
+      "properties": {
+        "name": "Moshmellow",
+        "address": "3359 S Jefferson Ave St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.222166,
+          38.593129
+        ]
+      },
+      "properties": {
+        "name": "Mud House The",
+        "address": "2101 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Coffee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.236312,
+          38.594903
+        ]
+      },
+      "properties": {
+        "name": "My Marie Restaurant",
+        "address": "3147 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23257,
+          38.594327
+        ]
+      },
+      "properties": {
+        "name": "Ssippi",
+        "address": "2926 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.230847,
+          38.593734
+        ]
+      },
+      "properties": {
+        "name": "Sueno Latino Restaurant",
+        "address": "2818 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.229294,
+          38.593605
+        ]
+      },
+      "properties": {
+        "name": "Tacos Hectorito",
+        "address": "2753 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.230618,
+          38.594151
+        ]
+      },
+      "properties": {
+        "name": "Taqueria El Bronco",
+        "address": "2817 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.231813,
+          38.594329
+        ]
+      },
+      "properties": {
+        "name": "Tsch\u00fcss",
+        "address": "2847 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.227036,
+          38.593316
+        ]
+      },
+      "properties": {
+        "name": "Whiskey Ring The",
+        "address": "2651 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.229074,
+          38.593554
+        ]
+      },
+      "properties": {
+        "name": "Yaqui's",
+        "address": "2728 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.224472,
+          38.593379
+        ]
+      },
+      "properties": {
+        "name": "Zephyr Bar + Salon",
+        "address": "2303 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.227154,
+          38.593739
+        ]
+      },
+      "properties": {
+        "name": "Bridge Bread",
+        "address": "2639 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.231393,
+          38.593873
+        ]
+      },
+      "properties": {
+        "name": "Diana's Bakery",
+        "address": "2843 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.229165,
+          38.59389
+        ]
+      },
+      "properties": {
+        "name": "Diana's Bakery #2",
+        "address": "2750 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.227165,
+          38.593237
+        ]
+      },
+      "properties": {
+        "name": "El Chico Bakery Inc",
+        "address": "2634 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.223269,
+          38.593266
+        ]
+      },
+      "properties": {
+        "name": "Whisk A Sustainable Bakeshop",
+        "address": "2201 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Bakery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.230945,
+          38.593816
+        ]
+      },
+      "properties": {
+        "name": "Economic Shop",
+        "address": "2823 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Grocery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.229294,
+          38.593605
+        ]
+      },
+      "properties": {
+        "name": "El Torito Supermercado",
+        "address": "2753 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Grocery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.235053,
+          38.59423
+        ]
+      },
+      "properties": {
+        "name": "K & B Super Market",
+        "address": "3106 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Grocery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.230712,
+          38.593717
+        ]
+      },
+      "properties": {
+        "name": "Latino Americana Inc",
+        "address": "2800 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Grocery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.236428,
+          38.594918
+        ]
+      },
+      "properties": {
+        "name": "My Marie International Market",
+        "address": "3151 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Grocery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.225412,
+          38.592732
+        ]
+      },
+      "properties": {
+        "name": "Save-a-Lot",
+        "address": "3427 S Jefferson Ave St Louis MO 63118",
+        "website": "",
+        "category": "food",
+        "subcategory": "Grocery"
+      }
+    }
+  ]
+}

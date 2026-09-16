@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.216048,
+          38.592354
+        ]
+      },
+      "properties": {
+        "name": "Chatillon-DeMenil Mansion",
+        "address": "3352 DeMenil Pl St Louis MO 63118",
+        "website": "",
+        "category": "history",
+        "subcategory": "Historic House Museum"
+      }
+    }
+  ]
+}

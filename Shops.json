@@ -1,0 +1,634 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.236772,
+          38.594447
+        ]
+      },
+      "properties": {
+        "name": "Assassin Vintage",
+        "address": "3156 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Antiques & Vintage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.239373,
+          38.594775
+        ]
+      },
+      "properties": {
+        "name": "Bricoleur The",
+        "address": "3400 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Antiques & Vintage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.221106,
+          38.592879
+        ]
+      },
+      "properties": {
+        "name": "DeMay Ltd Fur & Antiques",
+        "address": "2020 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Antiques & Vintage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.221697,
+          38.592441
+        ]
+      },
+      "properties": {
+        "name": "Elder's Antiques & Garden",
+        "address": "2016 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Antiques & Vintage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.223087,
+          38.592729
+        ]
+      },
+      "properties": {
+        "name": "Elder's Ltd",
+        "address": "2124 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Antiques & Vintage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22687,
+          38.593597
+        ]
+      },
+      "properties": {
+        "name": "Ginny Win",
+        "address": "2642 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Antiques & Vintage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.222527,
+          38.592742
+        ]
+      },
+      "properties": {
+        "name": "Lady Jane Antiques",
+        "address": "2110 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Antiques & Vintage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.224368,
+          38.593274
+        ]
+      },
+      "properties": {
+        "name": "O Pothecary X Omar Styles",
+        "address": "2304 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Antiques & Vintage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.220182,
+          38.592467
+        ]
+      },
+      "properties": {
+        "name": "Remember When Antiques",
+        "address": "1955 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Antiques & Vintage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.223861,
+          38.592874
+        ]
+      },
+      "properties": {
+        "name": "Retro 101 & Cherry Bomb Vintage",
+        "address": "2214 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Antiques & Vintage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.220407,
+          38.592913
+        ]
+      },
+      "properties": {
+        "name": "Riverside Architectural Antiques",
+        "address": "1947 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Antiques & Vintage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.226059,
+          38.593207
+        ]
+      },
+      "properties": {
+        "name": "Unc+ TT's Place",
+        "address": "2610 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Antiques & Vintage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.222515,
+          38.593172
+        ]
+      },
+      "properties": {
+        "name": "Verdigris St Louis",
+        "address": "2111 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Antiques & Vintage"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.236983,
+          38.595004
+        ]
+      },
+      "properties": {
+        "name": "Flowers and Weeds",
+        "address": "3201 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Florist"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.224574,
+          38.593338
+        ]
+      },
+      "properties": {
+        "name": "Murphy's Mutts and Cuts",
+        "address": "2307 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Pet Care"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.236877,
+          38.594851
+        ]
+      },
+      "properties": {
+        "name": "Tenth Life Cat Rescue",
+        "address": "3202 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Pet Care"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.217668,
+          38.59245
+        ]
+      },
+      "properties": {
+        "name": "FotoFile Studio",
+        "address": "1820 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Photography"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.239093,
+          38.595989
+        ]
+      },
+      "properties": {
+        "name": "Gifted Dreams Photography",
+        "address": "3338 Louisiana Ave St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Photography"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.234247,
+          38.594648
+        ]
+      },
+      "properties": {
+        "name": "Creative Litho Inc",
+        "address": "3021 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Printing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.231713,
+          38.593842
+        ]
+      },
+      "properties": {
+        "name": "Firecracker Press The",
+        "address": "2838 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Printing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22675,
+          38.593688
+        ]
+      },
+      "properties": {
+        "name": "Art Monster Tattoo",
+        "address": "2627 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Tattoo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.231522,
+          38.594192
+        ]
+      },
+      "properties": {
+        "name": "Liberty Wireless",
+        "address": "2850 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Retail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.226134,
+          38.593614
+        ]
+      },
+      "properties": {
+        "name": "Malow Fashion",
+        "address": "2613 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Retail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.226553,
+          38.593251
+        ]
+      },
+      "properties": {
+        "name": "Mesa Home",
+        "address": "2619 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Retail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.226738,
+          38.593276
+        ]
+      },
+      "properties": {
+        "name": "Metro PCS",
+        "address": "2631 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Retail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.228972,
+          38.59356
+        ]
+      },
+      "properties": {
+        "name": "Novedades Latino's Beauty",
+        "address": "2733 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Retail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.223745,
+          38.593199
+        ]
+      },
+      "properties": {
+        "name": "PRASM Clothing",
+        "address": "2222 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Retail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.224796,
+          38.592951
+        ]
+      },
+      "properties": {
+        "name": "Ruby Francis",
+        "address": "2310 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Retail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22217,
+          38.593007
+        ]
+      },
+      "properties": {
+        "name": "Saxquest",
+        "address": "2114 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Retail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.221075,
+          38.592993
+        ]
+      },
+      "properties": {
+        "name": "STL Rocks",
+        "address": "2001 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Retail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.23622,
+          38.594463
+        ]
+      },
+      "properties": {
+        "name": "STL Stylehouse",
+        "address": "3159 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Retail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.225679,
+          38.593435
+        ]
+      },
+      "properties": {
+        "name": "SunSnow",
+        "address": "2604 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Retail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.238942,
+          38.595235
+        ]
+      },
+      "properties": {
+        "name": "Swan Meadow",
+        "address": "3334 Louisiana Ave St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Retail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.230712,
+          38.593717
+        ]
+      },
+      "properties": {
+        "name": "T-Shirt Headquarters Boutique",
+        "address": "2816 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Retail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.218872,
+          38.592036
+        ]
+      },
+      "properties": {
+        "name": "Warehaus by Nistenhaus",
+        "address": "3412 Lemp Ave St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Retail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.225431,
+          38.594074
+        ]
+      },
+      "properties": {
+        "name": "ZUBI Wireless",
+        "address": "3356 S Jefferson Ave St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Retail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.229577,
+          38.59354
+        ]
+      },
+      "properties": {
+        "name": "Total Wireless",
+        "address": "2742 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "shops",
+        "subcategory": "Retail"
+      }
+    }
+  ]
+}

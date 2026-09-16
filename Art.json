@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.236607,
+          38.59494
+        ]
+      },
+      "properties": {
+        "name": "Fifteen Windows Gallery",
+        "address": "3155 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "art",
+        "subcategory": "Gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.224671,
+          38.592931
+        ]
+      },
+      "properties": {
+        "name": "LA Marler Gallery",
+        "address": "2308 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "art",
+        "subcategory": "Gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.22911,
+          38.593385
+        ]
+      },
+      "properties": {
+        "name": "Lindsay Braman Studios",
+        "address": "3409 Iowa Ave St Louis MO 63118",
+        "website": "",
+        "category": "art",
+        "subcategory": "Gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.227938,
+          38.59385
+        ]
+      },
+      "properties": {
+        "name": "Luminary The",
+        "address": "2701 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "art",
+        "subcategory": "Gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.224334,
+          38.592967
+        ]
+      },
+      "properties": {
+        "name": "Red Chair Studio",
+        "address": "2319 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "art",
+        "subcategory": "Gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.224607,
+          38.592932
+        ]
+      },
+      "properties": {
+        "name": "Sheppard Studios LLC",
+        "address": "2306 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "art",
+        "subcategory": "Gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.226329,
+          38.593132
+        ]
+      },
+      "properties": {
+        "name": "STL Virtuoso Collective",
+        "address": "2616 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "art",
+        "subcategory": "Gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.233228,
+          38.593999
+        ]
+      },
+      "properties": {
+        "name": "Untitled Fine Art",
+        "address": "2920 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "art",
+        "subcategory": "Gallery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.224671,
+          38.592931
+        ]
+      },
+      "properties": {
+        "name": "TypOsphere StL The",
+        "address": "2308 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "art",
+        "subcategory": "Art Space"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.233724,
+          38.594472
+        ]
+      },
+      "properties": {
+        "name": "That Untitled Project",
+        "address": "3026 Cherokee St St Louis MO 63118",
+        "website": "",
+        "category": "art",
+        "subcategory": "Art Space"
+      }
+    }
+  ]
+}
